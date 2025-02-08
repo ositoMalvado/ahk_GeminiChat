@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/ositoMalvadoGeminiChat/count.svg)
+
 First release!
 
 You can only send text and receive text for now
